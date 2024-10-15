@@ -1,3 +1,5 @@
+Target Hunter.
+
 • It is a multiplayer Dice rolling game.
 • There will be a score that the user needs to achieve to win the game.
 • User can decide how many time the dice that he want's to roll.
