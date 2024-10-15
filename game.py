@@ -4,6 +4,7 @@ def roll_the_dice():
     maximum=6
     roll_the_dice = random.randint(minimum,maximum)
     return roll_the_dice
+    
 while True:
     players = input("Enter how many players are playing. Enter between (2-4): ")
     if players.isdigit():
